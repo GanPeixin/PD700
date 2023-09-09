@@ -5,4 +5,4 @@ This dataset contains 50 types of different plant diseases and pests and some gr
 Download Link:
 [Baidu Netdisk]:https://pan.baidu.com/s/1VgCtSxk27JaWvRSssULySg?pwd=3xtf	access_code：3xtf 
 
-We are going to collect more types and images, to provide a more abudant dataset for plant anomaly research in cv.
+We are going to collect more types and images, to provide a more abudant dataset for plant anomaly research in computer vision and deep learning area.
